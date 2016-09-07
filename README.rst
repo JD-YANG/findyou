@@ -1,39 +1,13 @@
-Template
+Project 목적
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+스타트업이 필요한 각종 인원을 리스트업합니다. readthedocs 를 통하여 한 눈에 볼 수 있습니다.
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
+Contact
 --------
 
-- Be awesome
-- Make things faster
+j_at_jdlab.org
 
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
 
 License
 -------

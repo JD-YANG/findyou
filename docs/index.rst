@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Startup 개발자 채용 시스템
+Startup 개발자 채용 정보
 ==================================================
 
 Contents:

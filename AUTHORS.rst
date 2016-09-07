@@ -1,6 +1,6 @@
 Authors
 -------
 
-* JDYang
+* JY
 
 
