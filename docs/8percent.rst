@@ -67,12 +67,15 @@
   <https://brunch.co.kr/@8percent>`_
 ::
 
-   $ https://brunch.co.kr/magazine/8percent
+  $ https://brunch.co.kr/magazine/8percent
 
 
 - 위치
    광화문 더케이 트윈타워 (A.K.A `마이크로소프트 빌딩
    <http://www.microsoft.com>`_)
+
+- Contact
+   이력서를 hr@8percent.kr로 보내주세요. 형식의 제약은 없습니다. (하지만 hwp파일은 보내지 마세요. 열어보지 않아요. )
 
 
 
