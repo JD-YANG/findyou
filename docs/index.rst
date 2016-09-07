@@ -1,7 +1,5 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. meta::
+   :og\:image: https://scontent-nrt1-1.xx.fbcdn.net/t31.0-8/14195451_1228978923820187_211488561772929407_o.jpg
 
 개발자 구하려 이거까지 만들었다
 ==================================================
