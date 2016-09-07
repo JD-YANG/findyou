@@ -94,19 +94,30 @@ pygments_style = 'sphinx'
 #keep_warnings = False
 
 
+
 # -- Options for HTML output ----------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-html_theme = 'default'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    # 'sticky_navigation': True  # Set to False to disable the sticky nav while scrolling.
+    # 'logo_only': True,  # if we have a html_logo below, this shows /only/ the logo with no title text
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = []
+
+html_theme_path = ["sphinx_rtd_theme"]
+
+html_context = {
+	'css_files':[
+		'http://media.readthedocs.org/css/sphinx_rtd_theme.css',
+		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
+		'http://tutorial.iueditor.org/manual/css/my_theme.css',
+	],
+}
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -176,7 +187,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'StartupRecruitdoc'
+htmlhelp_basename = 'SphinxRTDthemedemodoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
