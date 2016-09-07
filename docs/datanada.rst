@@ -12,6 +12,8 @@ Lead Engineer: John Park
 - 실리콘벨리 머신러닝 그룹 올가나이져
 - UC버클리 Cognitive Science/EECS 전공
 
+-------
+
 채용 포지션
 ------------
 
@@ -19,6 +21,7 @@ Lead Engineer: John Park
 
    수학, 물리학, 컴퓨터 공학 또는 산업공학 전공자
 
+-------
 
 기사
 -------
@@ -29,6 +32,7 @@ Lead Engineer: John Park
 - 전자신문 창간특집
    http://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=030&aid=0002522737
 
+-------
 
 연락처
 -------
@@ -42,6 +46,7 @@ Lead Engineer: John Park
    인공지능과 머신러닝에서 검증된 사람들과 같이 일할 수 있습니다. 알고리즘과 데이터분석부터 시스템구축까지 다양한 경험을 할 수 있습니다.
 
 
+-------
 
 Page License
 -------
