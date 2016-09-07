@@ -1,4 +1,4 @@
-DATANDAA
+2. DATANDAA
 ========
 
 DATANADA는 인공지능 채팅 프레임워크를 만들고 있습니다.
@@ -28,6 +28,12 @@ Lead Engineer: John Park
 
 - 전자신문 창간특집
    http://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=030&aid=0002522737
+
+
+연락처
+-------
+
+   john@jdlab.org
 
 
 Page License
