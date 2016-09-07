@@ -52,6 +52,8 @@ asdf**asdf**
 ----------
 
 - 블로그
+::
+
    $ https://brunch.co.kr/magazine/8percent
 
 
@@ -78,3 +80,17 @@ Page License
 -------
 
 This page is licensed under the BSD license.
+
+
+Structure
+---------
+
+The **components** of the current page (**section, header, footer, page content, widget**, ...) can be seen in this area.
+
+You can **rearrange, remove, rename, and hide** widgets from the structure.
+
+* ``Add New Popup`` : Add a popup widget into the current page.
+* ``Add New Panel`` : Add a panel widget into the current page.
+* ``Add New Section`` : Add a section to the page content.
+* ``Delete`` : Delete the selected element.
+
