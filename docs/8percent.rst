@@ -1,6 +1,17 @@
 1. 8퍼센트
 ========
 
+
+============
+Installation
+============
+
+Install the package with pip::
+
+    $ pip install read-the-docs-template
+
+
+
 8퍼센트는 한국에서 가장 널리 알려진 P2P 대출회사입니다.
 
 
