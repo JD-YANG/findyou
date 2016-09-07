@@ -10,7 +10,7 @@
 
 ** 요건 **
 
-* 개발 경력 3년 이상
+* ``개발 경력 3년 이상``
 
 
 -----------
@@ -46,12 +46,12 @@
 
 
 - 기사
-   $ http://ppss.kr/archives/56683
-   $ http://www.viva100.com/main/view.php?key=20160828010007717
-   $ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=025&aid=0002636971
-   $ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003195458
-   $ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0003696284
-   $ http://outstanding.kr/8percent20160905/
+$ http://ppss.kr/archives/56683
+$ http://www.viva100.com/main/view.php?key=20160828010007717
+$ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=025&aid=0002636971
+$ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=023&aid=0003195458
+$ http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0003696284
+$ http://outstanding.kr/8percent20160905/
 
 - 위치
    광화문 더케이 트윈타워 (A.K.A 마이크로소프트 빌딩)
