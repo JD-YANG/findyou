@@ -68,7 +68,7 @@
     $ http://outstanding.kr/8percent20160905/
 
 - 위치
-   광화문 더케이 트윈타워 (A.K.A 마이크로소프트 빌딩)
+   광화문 더케이 트윈타워 (A.K.A `마이크로소프트 빌딩<http://www.microsoft.com>`_)
 
 
 
