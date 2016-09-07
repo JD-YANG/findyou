@@ -1,6 +1,7 @@
 Authors
 -------
 
-* www.jdlab.org
+* `www.jdlab.org<http://www.jdlab.org>`_
+* 수정 추가 내역은 Pull Request를 주시면 반영됩니다.
 
 

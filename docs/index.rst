@@ -16,7 +16,6 @@ Contents:
    :caption: 본 시스템에 관하여
 
    authors
-   contributing
 
 
 Indices and tables
