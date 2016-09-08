@@ -14,7 +14,7 @@ Lead Engineer: John Park
 
 -------
 
-Class: 알고리즘 개발자[1]
+Class: 알고리즘 개발자
 ------------
 
 - **Property**
@@ -23,7 +23,7 @@ Class: 알고리즘 개발자[1]
 
 -------
 
-Class: 시스템 개발자[1]
+Class: 시스템 개발자
 -------
 
 - **Property**
