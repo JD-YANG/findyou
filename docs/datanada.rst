@@ -1,4 +1,4 @@
-2. DATANDADA
+2. DATANADA
 ========
 
 DATANADA는 인공지능 채팅 프레임워크를 만들고 있습니다.
