@@ -7,26 +7,26 @@ DATANADA는 인공지능 채팅 프레임워크를 만들고 있습니다.
 Lead Engineer: John Park
 --------
 
-- linked in: https://www.linkedin.com/in/johndpark
-- HP, Symantec 근무
-- 실리콘벨리 머신러닝 그룹 올가나이져
-- UC버클리 Cognitive Science/EECS 전공
+- //linked in: https://www.linkedin.com/in/johndpark
+- //HP, Symantec 근무
+- //실리콘벨리 머신러닝 그룹 올가나이져
+- //UC버클리 Cognitive Science/EECS 전공
 
 -------
 
-채용 포지션: 알고리즘 개발자
+Class: 알고리즘 개발자[1]
 ------------
 
-- ** Requrement**
+- **Property**
 
    수학, 물리학, 컴퓨터 공학 또는 산업공학 전공자
 
 -------
 
-채용 포지션: 시스템 개발자
+Class: 시스템 개발자[1]
 -------
 
-- ** Requrement**
+- **Property**
 
    Python-Django 또는 Tensorflow 개발자
 
