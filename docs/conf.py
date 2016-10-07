@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HotSix'
+project = u'FindYou'
 copyright = u'2016, JDLab'
 
 # The version info for the project you're documenting, acts as replacement for
