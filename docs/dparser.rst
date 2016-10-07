@@ -27,33 +27,7 @@ REST API
 
 **RESULT**
 
- *
-
-
------------
-
-
-View
---------
-
-
-**URL**
-
-  * view.hangul.io
-
-**INPUT Parameter**
-
-  * METHOD: GET
-
-**INPUT Parameter**
-
- * version: (int)1
- * sentence: 분석할 문장
-
-**RESULT**
-
  * 분석된 결과물
-
 
 **예**
  * http://parser.datanada.com/parse/?version=1&string=안녕하세요
