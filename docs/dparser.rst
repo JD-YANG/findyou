@@ -18,10 +18,6 @@ REST API
 
 **INPUT Parameter**
 
-  * METHOD: GET
-
-**INPUT Parameter**
-
  * version: (int)1
  * string: 분석할 문장
 
@@ -30,7 +26,7 @@ REST API
  * 분석된 결과물
 
 **예**
- * http://parser.datanada.com/parse/?version=1&string=안녕하세요
+ * http://parser.datanada.com/parse?version=1&string=안녕하세요
 
 
 -----------
